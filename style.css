@@ -1,1 +1,23 @@
 
+section {
+height : 36vh;
+width : 100%;
+position:releative;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+/*.Life{
+
+}*/
+.Times{
+height: 80%;
+width: 80%;
+display:grid;
+grid-template-columns: repeat(5,1fr);
+grid-template-rows: repeat(3,1fr);
+gap: 2px;
+background-color:grey;
+left: 20%;
+top : 20%
+}
