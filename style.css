@@ -1,14 +1,1 @@
-.Hero{
-        height:50vh;
-            display:grid;
-                grid-template-columns:repeat(6,1fr);
-                    grid-template-rows:repeat(6,1fr);
-                    }
-.Hero-text{
-    container-type: inline-size;
-        grid-column:2/6;
-            grid-row:2/4;
-                font-family: 'Satoshi' ,sans-serif;
-                    font-size:clamp(2rem,20cqi,5rem);
-                        font-weight: 500;
-                        }
+
