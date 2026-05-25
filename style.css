@@ -7,17 +7,22 @@ display:flex;
 justify-content:center;
 align-items:center;
 }
-/*.Life{
+.Life{
 
-}*/
+}
 .Times{
-height: 80%;
+aspect-ratio: 5/3;
 width: 80%;
 display:grid;
 grid-template-columns: repeat(5,1fr);
 grid-template-rows: repeat(3,1fr);
 gap: 2px;
 background-color:grey;
-left: 20%;
-top : 20%
+margin: 2%
+}
+
+.Life-text{
+font-family: Satoshi,sans-serif;
+Font-size:20cqi;
+font-weight: 500;
 }
