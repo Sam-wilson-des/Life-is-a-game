@@ -4,10 +4,11 @@ height : 36vh;
 width : 100%;
 position:releative;
 display:flex;
-justify-content:center;
-align-items:center;
+background-color: #1A0087
 }
 .Life{
+Justify-content: left;
+align-content: bottom; 
 
 }
 .Times{
@@ -23,6 +24,7 @@ margin: 2%
 
 .Life-text{
 font-family: Satoshi,sans-serif;
-Font-size:20cqi;
-font-weight: 500;
+Font-size:28cqi;
+font-weight: 600;
+color:#EFE0D4
 }
